@@ -1,0 +1,26 @@
+/*BAGIAN BIODATA*/
+
+
+/*Merubah Family dan warna Text*/
+
+.tabelbiodata {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: gold;
+}
+
+
+/*Merubah Family dan warna Text*/
+
+.foot {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: azure;
+}
+
+a {
+    text-decoration: none;
+    color: greenyellow;
+}
+
+a :visited {
+    color: greenyellow;
+}

@@ -1,0 +1,14 @@
+table {
+    border-collapse: collapse;
+    width: auto;
+    height: auto;
+    text-align: center;
+    overflow-y: scroll;
+    overflow-x: scroll;
+}
+
+th,
+td {
+    border-bottom: 1px solid silver;
+    padding: 8px;
+}

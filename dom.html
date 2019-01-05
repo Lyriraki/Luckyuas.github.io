@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="dom.js"></script>
+    <title>Daftar Game Setiap Perusahaan</title>
+</head>
+
+<body>
+    <form>
+        <select name="perusahaan" onchange="tampilgame(this.value);">
+            <option value="">Pilih</option>
+            <option value="Sony">Sony</option>
+            <option value="Nintendo">Nintendo</option>
+            <option value="Namco">Namco Bandai</option>
+            <option value="Ea">Electronic Arts</option>
+            <option value="Ubisoft">Ubisoft</option>
+            <option value="Square">Square Enix</option>
+        </select>
+    </form>
+    <div id="game"></div>
+</body>
+
+</html>

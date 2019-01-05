@@ -1,0 +1,38 @@
+<katalog>
+    <Game category="Gaming">
+        <Perusahaan>Sony</Perusahaan>
+        <Asal>Jepang</Asal>
+        <Tahun>1993</Tahun>
+        <Pendapatan>$13.4 milyar</Pendapatan>
+    </Game>
+    <Game category="Gaming">
+        <Perusahaan>Microsoft Game Studio</Perusahaan>
+        <Asal>Amerika</Asal>
+        <Tahun>2002</Tahun>
+        <Pendapatan>$12.83 milyar</Pendapatan>
+    </Game>
+    <Game category="Gaming">
+        <Perusahaan>Nintendo</Perusahaan>
+        <Asal>Jepang</Asal>
+        <Tahun>1889</Tahun>
+        <Pendapatan>$6.28 milyar</Pendapatan>
+    </Game>
+    <Game category="Gaming">
+        <Perusahaan>Namco Bandai</Perusahaan>
+        <Asal>Jepang</Asal>
+        <Tahun>2006</Tahun>
+        <Pendapatan>$4.74 milyar</Pendapatan>
+    </Game>
+    <Game category="Gaming">
+        <Perusahaan>Electronic Arts(EA)</Perusahaan>
+        <Asal>Amerika</Asal>
+        <Tahun>1982</Tahun>
+        <Pendapatan>$4.14 milyar</Pendapatan>
+    </Game>
+    <Game category="Gaming">
+        <Perusahaan>Konami</Perusahaan>
+        <Asal>Jepang</Asal>
+        <Tahun>1969</Tahun>
+        <Pendapatan>$3.24 milyar</Pendapatan>
+    </Game>
+</katalog>
